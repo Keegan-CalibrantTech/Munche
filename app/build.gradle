@@ -4,13 +4,13 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 31
     buildToolsVersion "29.0.3"
 
     defaultConfig {
         applicationId "com.example.munche"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
 
@@ -75,7 +75,7 @@ dependencies {
         transitive = true;
     }
     implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0'//MapBox
-    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation:0.42.6'//MapBox Navigation
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation:7.0.0'//MapBox Navigation
     implementation 'androidx.annotation:annotation:1.2.0'
     implementation 'ir.samanjafari.easycountdowntimer:easycountdowntimer:2.5.0'//Countdown Timer
     implementation 'com.myhexaville:smart-image-picker:1.0.4' //ImagePicker

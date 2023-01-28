@@ -19,7 +19,7 @@
     <string name="your_cart_is_empty">Your cart is empty</string>
     <string name="choose_your_payment_method">Choose Your Payment Method</string>
     <string name="your_orders">Your Orders</string>
-    <string name="mapbox_access_token">REPLACE WITH YOUR OWN MAPBOX TOKEN</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia2VlZ2FudmF6IiwiYSI6ImNrb2dzaWgyMDB6Y3gybm9hb3BxanowdjUifQ.J7o5CKKJ2OlBYvEhhW6Q4Q</string>
     <string name="write_a_review">Write a review</string>
     <string name="review_hint">Write your thoughts about the restaurant</string>
     <string name="search_restaurants">Search Restaurants</string>
